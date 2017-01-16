@@ -1,0 +1,15 @@
+09:52, 5th January	2tires 	3oil	4spark plugs	$246	陕西 咸阳	a
+13:50, 5th January	2tires 	3oil	4spark plugs	$246	陕西 咸阳	b
+04:30, 6th January	1tires 	2oil	3spark plugs	$132	咸阳	a
+10:52, 7th January	1tires 	2oil	3spark plugs	$132	陕西 咸阳	b
+10:53, 7th January	1tires 	2oil	3spark plugs	$132	陕西 咸阳	b
+12:16, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:20, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:20, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:21, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:22, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:23, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:24, 9th January	1tires 	2oil	3spark plugs	$132		d
+12:25, 9th January	1tires 	2oil	3spark plugs	$132		d
+11:37, 11th January	2tires 	1oil	1spark plugs	$214	陕西 咸阳	b
+13:25, 16th January	1tires 	2oil	3spark plugs	$132	111	a

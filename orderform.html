@@ -1,0 +1,46 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>鲍勃的汽修店</title>
+    <link rel="Shortcut Icon" href="favicon.ico" >
+</head>
+<form action="processorder.php" method="post">
+    <table border="0">
+        <tr bgcolor="#cccccc">
+            <td width="150">商品</td>
+            <td width="15">输入数量</td>
+        </tr>
+        <tr>
+            <td>轮胎</td>
+            <td align="center"><input type="text" name="tireqty" size="3" maxlength="3"/></td>
+        </tr>
+        <tr>
+            <td>汽油</td>
+            <td align="center"><input type="text" name="oilqty" size="3" maxlength="3"/></td>
+        </tr>
+        <tr>
+            <td>火花塞</td>
+            <td align="center"><input type="text" name="sparkqty" size="3" maxlength="3"/></td>
+        </tr>
+        <tr>
+            <td>家庭住址</td>
+            <td align="center"><input type="text" name="address" style="width:100px;height:26px;" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><input type="submit" value="提交"/></td>
+        </tr>
+
+        <tr>
+            <td>你是怎么知道鲍勃的汽修店的？</td>
+            <td><select name="find">
+                <option value = "a" > 通过宣传单</option>
+                <option value = "b" > 通过电视</option>
+                <option value = "c" > 朋友介绍</option>
+                <option value = "d" > 其他</option>
+                </select>
+            </td>
+        </tr>
+
+    </table>
+</form>
+</html>
